@@ -94,5 +94,12 @@ Hi! I'm **Utkarsha Pazare**, a certified Data Analyst currently pursuing an MCA 
 
 ---
 
+🔧 Skills: Power BI, Excel, SQL, Python, Tableau
+🔗 LinkedIn: [https://www.linkedin.com/in/utkarsha-pazare/]
+
+💬 Share your feedback
+
+🔗 Connect with me on LinkedIn!
+
 ## ⭐ If you found this useful, don’t forget to star the repo!
 
